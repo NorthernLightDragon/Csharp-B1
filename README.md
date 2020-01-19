@@ -1,3 +1,3 @@
 # Csharp-B1
 
-Celsius to fahrenheit
+Celsius and fahrenheit convertion
