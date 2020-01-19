@@ -1,0 +1,11 @@
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\bin\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.deps.json
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\bin\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.runtimeconfig.json
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\bin\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.runtimeconfig.dev.json
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\bin\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.dll
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\bin\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.pdb
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\obj\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.csprojAssemblyReference.cache
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\obj\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.csproj.CoreCompileInputs.cache
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\obj\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.AssemblyInfoInputs.cache
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\obj\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.AssemblyInfo.cs
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\obj\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.dll
+C:\Users\LordSesshoumaru\Desktop\Git\CelsiusAFahrenheitConvertion\CelsiusAFahrenheitConvertion\obj\Debug\netcoreapp2.1\CelsiusAFahrenheitConvertion.pdb
